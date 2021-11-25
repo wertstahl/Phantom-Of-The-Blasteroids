@@ -9,3 +9,6 @@ No commercial use without written permission.
 
 Source/Project should compile just fine with
 CBMPRGStudio by Arthur Jordison
+
+Main file for building is mainblast2pl.asm
+(do not build project, just build the main file)
